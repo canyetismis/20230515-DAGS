@@ -1,0 +1,154 @@
+----- START LOG -----
+Total Runtime: 0:04:41.380731
+[{'task': 'extract_transform_1', 'level': 1, 'record_time': 15, 'throughput': 1090}, {'task': 'extract_transform_2', 'level': 1, 'record_time': 30, 'throughput': 1116}, {'task': 'processor_2', 'level': 2, 'record_time': 60, 'throughput': 693}, {'task': 'processor_3', 'level': 2, 'record_time': 90, 'throughput': 605}, {'task': 'processor_1', 'level': 2, 'record_time': 120, 'throughput': 686}, {'task': 'processor_4', 'level': 2, 'record_time': 150, 'throughput': 701}, {'task': 'classifier_1', 'level': 3, 'record_time': 195, 'throughput': 531}, {'task': 'classifier_2', 'level': 3, 'record_time': 240, 'throughput': 495}, {'task': 'classifier_3', 'level': 3, 'record_time': 285, 'throughput': 401}]
+Throughput: 1090 record time: 15 task: extract_transform_1 throughput: 1090
+Throughput: 2206 record time: 30 task: extract_transform_2 throughput: 1116
+Throughput: 2899 record time: 60 task: processor_2 throughput: 693
+Throughput: 3504 record time: 90 task: processor_3 throughput: 605
+Throughput: 4190 record time: 120 task: processor_1 throughput: 686
+Throughput: 4891 record time: 150 task: processor_4 throughput: 701
+Throughput: 5422 record time: 195 task: classifier_1 throughput: 531
+Throughput: 5917 record time: 240 task: classifier_2 throughput: 495
+Throughput: 6318 record time: 285 task: classifier_3 throughput: 401
+Total throughput: 6318
+----- END LOG -----
+----- START LOG -----
+Total Runtime: 0:04:46.033526
+[{'task': 'extract_transform_1', 'level': 1, 'record_time': 30, 'throughput': 861}, {'task': 'extract_transform_2', 'level': 1, 'record_time': 30, 'throughput': 1077}, {'task': 'processor_2', 'level': 2, 'record_time': 60, 'throughput': 699}, {'task': 'processor_3', 'level': 2, 'record_time': 105, 'throughput': 650}, {'task': 'processor_1', 'level': 2, 'record_time': 135, 'throughput': 609}, {'task': 'processor_4', 'level': 2, 'record_time': 150, 'throughput': 750}, {'task': 'classifier_1', 'level': 3, 'record_time': 195, 'throughput': 401}, {'task': 'classifier_2', 'level': 3, 'record_time': 240, 'throughput': 452}, {'task': 'classifier_3', 'level': 3, 'record_time': 285, 'throughput': 527}]
+Throughput: 861 record time: 30 task: extract_transform_1 throughput: 861
+Throughput: 1938 record time: 30 task: extract_transform_2 throughput: 1077
+Throughput: 2637 record time: 60 task: processor_2 throughput: 699
+Throughput: 3287 record time: 105 task: processor_3 throughput: 650
+Throughput: 3896 record time: 135 task: processor_1 throughput: 609
+Throughput: 4646 record time: 150 task: processor_4 throughput: 750
+Throughput: 5047 record time: 195 task: classifier_1 throughput: 401
+Throughput: 5499 record time: 240 task: classifier_2 throughput: 452
+Throughput: 6026 record time: 285 task: classifier_3 throughput: 527
+Total throughput: 6026
+----- END LOG -----
+----- START LOG -----
+Total Runtime: 0:04:39.197894
+[{'task': 'extract_transform_1', 'level': 1, 'record_time': 30, 'throughput': 902}, {'task': 'extract_transform_2', 'level': 1, 'record_time': 30, 'throughput': 1148}, {'task': 'processor_2', 'level': 2, 'record_time': 60, 'throughput': 739}, {'task': 'processor_3', 'level': 2, 'record_time': 90, 'throughput': 648}, {'task': 'processor_1', 'level': 2, 'record_time': 120, 'throughput': 718}, {'task': 'processor_4', 'level': 2, 'record_time': 150, 'throughput': 633}, {'task': 'classifier_1', 'level': 3, 'record_time': 195, 'throughput': 438}, {'task': 'classifier_2', 'level': 3, 'record_time': 240, 'throughput': 560}, {'task': 'classifier_3', 'level': 3, 'record_time': 285, 'throughput': 584}]
+Throughput: 902 record time: 30 task: extract_transform_1 throughput: 902
+Throughput: 2050 record time: 30 task: extract_transform_2 throughput: 1148
+Throughput: 2789 record time: 60 task: processor_2 throughput: 739
+Throughput: 3437 record time: 90 task: processor_3 throughput: 648
+Throughput: 4155 record time: 120 task: processor_1 throughput: 718
+Throughput: 4788 record time: 150 task: processor_4 throughput: 633
+Throughput: 5226 record time: 195 task: classifier_1 throughput: 438
+Throughput: 5786 record time: 240 task: classifier_2 throughput: 560
+Throughput: 6370 record time: 285 task: classifier_3 throughput: 584
+Total throughput: 6370
+----- END LOG -----
+----- START LOG -----
+Total Runtime: 0:04:46.753429
+[{'task': 'extract_transform_1', 'level': 1, 'record_time': 30, 'throughput': 1026}, {'task': 'extract_transform_2', 'level': 1, 'record_time': 45, 'throughput': 878}, {'task': 'processor_2', 'level': 2, 'record_time': 75, 'throughput': 646}, {'task': 'processor_3', 'level': 2, 'record_time': 90, 'throughput': 673}, {'task': 'processor_1', 'level': 2, 'record_time': 120, 'throughput': 649}, {'task': 'processor_4', 'level': 2, 'record_time': 150, 'throughput': 726}, {'task': 'classifier_1', 'level': 3, 'record_time': 195, 'throughput': 508}, {'task': 'classifier_2', 'level': 3, 'record_time': 240, 'throughput': 556}, {'task': 'classifier_3', 'level': 3, 'record_time': 285, 'throughput': 458}]
+Throughput: 1026 record time: 30 task: extract_transform_1 throughput: 1026
+Throughput: 1904 record time: 45 task: extract_transform_2 throughput: 878
+Throughput: 2550 record time: 75 task: processor_2 throughput: 646
+Throughput: 3223 record time: 90 task: processor_3 throughput: 673
+Throughput: 3872 record time: 120 task: processor_1 throughput: 649
+Throughput: 4598 record time: 150 task: processor_4 throughput: 726
+Throughput: 5106 record time: 195 task: classifier_1 throughput: 508
+Throughput: 5662 record time: 240 task: classifier_2 throughput: 556
+Throughput: 6120 record time: 285 task: classifier_3 throughput: 458
+Total throughput: 6120
+----- END LOG -----
+----- START LOG -----
+Total Runtime: 0:04:54.968718
+[{'task': 'extract_transform_1', 'level': 1, 'record_time': 30, 'throughput': 1166}, {'task': 'extract_transform_2', 'level': 1, 'record_time': 30, 'throughput': 1183}, {'task': 'processor_2', 'level': 2, 'record_time': 75, 'throughput': 677}, {'task': 'processor_3', 'level': 2, 'record_time': 105, 'throughput': 732}, {'task': 'processor_1', 'level': 2, 'record_time': 135, 'throughput': 670}, {'task': 'processor_4', 'level': 2, 'record_time': 165, 'throughput': 673}, {'task': 'classifier_1', 'level': 3, 'record_time': 210, 'throughput': 407}, {'task': 'classifier_2', 'level': 3, 'record_time': 255, 'throughput': 523}, {'task': 'classifier_3', 'level': 3, 'record_time': 300, 'throughput': 523}]
+Throughput: 1166 record time: 30 task: extract_transform_1 throughput: 1166
+Throughput: 2349 record time: 30 task: extract_transform_2 throughput: 1183
+Throughput: 3026 record time: 75 task: processor_2 throughput: 677
+Throughput: 3758 record time: 105 task: processor_3 throughput: 732
+Throughput: 4428 record time: 135 task: processor_1 throughput: 670
+Throughput: 5101 record time: 165 task: processor_4 throughput: 673
+Throughput: 5508 record time: 210 task: classifier_1 throughput: 407
+Throughput: 6031 record time: 255 task: classifier_2 throughput: 523
+Throughput: 6554 record time: 300 task: classifier_3 throughput: 523
+Total throughput: 6554
+----- END LOG -----
+----- START LOG -----
+Total Runtime: 0:04:44.078340
+[{'task': 'extract_transform_1', 'level': 1, 'record_time': 30, 'throughput': 957}, {'task': 'extract_transform_2', 'level': 1, 'record_time': 45, 'throughput': 1020}, {'task': 'processor_2', 'level': 2, 'record_time': 75, 'throughput': 625}, {'task': 'processor_3', 'level': 2, 'record_time': 90, 'throughput': 710}, {'task': 'processor_1', 'level': 2, 'record_time': 120, 'throughput': 652}, {'task': 'processor_4', 'level': 2, 'record_time': 150, 'throughput': 642}, {'task': 'classifier_1', 'level': 3, 'record_time': 195, 'throughput': 438}, {'task': 'classifier_2', 'level': 3, 'record_time': 240, 'throughput': 537}, {'task': 'classifier_3', 'level': 3, 'record_time': 285, 'throughput': 422}]
+Throughput: 957 record time: 30 task: extract_transform_1 throughput: 957
+Throughput: 1977 record time: 45 task: extract_transform_2 throughput: 1020
+Throughput: 2602 record time: 75 task: processor_2 throughput: 625
+Throughput: 3312 record time: 90 task: processor_3 throughput: 710
+Throughput: 3964 record time: 120 task: processor_1 throughput: 652
+Throughput: 4606 record time: 150 task: processor_4 throughput: 642
+Throughput: 5044 record time: 195 task: classifier_1 throughput: 438
+Throughput: 5581 record time: 240 task: classifier_2 throughput: 537
+Throughput: 6003 record time: 285 task: classifier_3 throughput: 422
+Total throughput: 6003
+----- END LOG -----
+----- START LOG -----
+Total Runtime: 0:04:45.369165
+[{'task': 'extract_transform_1', 'level': 1, 'record_time': 30, 'throughput': 830}, {'task': 'extract_transform_2', 'level': 1, 'record_time': 30, 'throughput': 1073}, {'task': 'processor_2', 'level': 2, 'record_time': 60, 'throughput': 618}, {'task': 'processor_3', 'level': 2, 'record_time': 90, 'throughput': 706}, {'task': 'processor_1', 'level': 2, 'record_time': 120, 'throughput': 631}, {'task': 'processor_4', 'level': 2, 'record_time': 150, 'throughput': 610}, {'task': 'classifier_1', 'level': 3, 'record_time': 195, 'throughput': 470}, {'task': 'classifier_2', 'level': 3, 'record_time': 240, 'throughput': 561}, {'task': 'classifier_3', 'level': 3, 'record_time': 285, 'throughput': 447}]
+Throughput: 830 record time: 30 task: extract_transform_1 throughput: 830
+Throughput: 1903 record time: 30 task: extract_transform_2 throughput: 1073
+Throughput: 2521 record time: 60 task: processor_2 throughput: 618
+Throughput: 3227 record time: 90 task: processor_3 throughput: 706
+Throughput: 3858 record time: 120 task: processor_1 throughput: 631
+Throughput: 4468 record time: 150 task: processor_4 throughput: 610
+Throughput: 4938 record time: 195 task: classifier_1 throughput: 470
+Throughput: 5499 record time: 240 task: classifier_2 throughput: 561
+Throughput: 5946 record time: 285 task: classifier_3 throughput: 447
+Total throughput: 5946
+----- END LOG -----
+----- START LOG -----
+Total Runtime: 0:04:46.028182
+[{'task': 'extract_transform_1', 'level': 1, 'record_time': 30, 'throughput': 855}, {'task': 'extract_transform_2', 'level': 1, 'record_time': 30, 'throughput': 861}, {'task': 'processor_2', 'level': 2, 'record_time': 60, 'throughput': 670}, {'task': 'processor_3', 'level': 2, 'record_time': 90, 'throughput': 722}, {'task': 'processor_1', 'level': 2, 'record_time': 120, 'throughput': 701}, {'task': 'processor_4', 'level': 2, 'record_time': 150, 'throughput': 617}, {'task': 'classifier_1', 'level': 3, 'record_time': 195, 'throughput': 546}, {'task': 'classifier_2', 'level': 3, 'record_time': 240, 'throughput': 421}, {'task': 'classifier_3', 'level': 3, 'record_time': 285, 'throughput': 600}]
+Throughput: 855 record time: 30 task: extract_transform_1 throughput: 855
+Throughput: 1716 record time: 30 task: extract_transform_2 throughput: 861
+Throughput: 2386 record time: 60 task: processor_2 throughput: 670
+Throughput: 3108 record time: 90 task: processor_3 throughput: 722
+Throughput: 3809 record time: 120 task: processor_1 throughput: 701
+Throughput: 4426 record time: 150 task: processor_4 throughput: 617
+Throughput: 4972 record time: 195 task: classifier_1 throughput: 546
+Throughput: 5393 record time: 240 task: classifier_2 throughput: 421
+Throughput: 5993 record time: 285 task: classifier_3 throughput: 600
+Total throughput: 5993
+----- END LOG -----
+----- START LOG -----
+Total Runtime: 0:04:45.750336
+[{'task': 'extract_transform_1', 'level': 1, 'record_time': 15, 'throughput': 1135}, {'task': 'extract_transform_2', 'level': 1, 'record_time': 45, 'throughput': 1054}, {'task': 'processor_2', 'level': 2, 'record_time': 60, 'throughput': 712}, {'task': 'processor_3', 'level': 2, 'record_time': 90, 'throughput': 637}, {'task': 'processor_1', 'level': 2, 'record_time': 120, 'throughput': 718}, {'task': 'processor_4', 'level': 2, 'record_time': 150, 'throughput': 647}, {'task': 'classifier_1', 'level': 3, 'record_time': 195, 'throughput': 430}, {'task': 'classifier_2', 'level': 3, 'record_time': 240, 'throughput': 419}, {'task': 'classifier_3', 'level': 3, 'record_time': 285, 'throughput': 506}]
+Throughput: 1135 record time: 15 task: extract_transform_1 throughput: 1135
+Throughput: 2189 record time: 45 task: extract_transform_2 throughput: 1054
+Throughput: 2901 record time: 60 task: processor_2 throughput: 712
+Throughput: 3538 record time: 90 task: processor_3 throughput: 637
+Throughput: 4256 record time: 120 task: processor_1 throughput: 718
+Throughput: 4903 record time: 150 task: processor_4 throughput: 647
+Throughput: 5333 record time: 195 task: classifier_1 throughput: 430
+Throughput: 5752 record time: 240 task: classifier_2 throughput: 419
+Throughput: 6258 record time: 285 task: classifier_3 throughput: 506
+Total throughput: 6258
+----- END LOG -----
+----- START LOG -----
+Total Runtime: 0:04:41.373649
+[{'task': 'extract_transform_1', 'level': 1, 'record_time': 30, 'throughput': 1017}, {'task': 'extract_transform_2', 'level': 1, 'record_time': 30, 'throughput': 862}, {'task': 'processor_2', 'level': 2, 'record_time': 60, 'throughput': 747}, {'task': 'processor_3', 'level': 2, 'record_time': 90, 'throughput': 687}, {'task': 'processor_1', 'level': 2, 'record_time': 120, 'throughput': 704}, {'task': 'processor_4', 'level': 2, 'record_time': 150, 'throughput': 687}, {'task': 'classifier_1', 'level': 3, 'record_time': 195, 'throughput': 550}, {'task': 'classifier_2', 'level': 3, 'record_time': 240, 'throughput': 583}, {'task': 'classifier_3', 'level': 3, 'record_time': 285, 'throughput': 499}]
+Throughput: 1017 record time: 30 task: extract_transform_1 throughput: 1017
+Throughput: 1879 record time: 30 task: extract_transform_2 throughput: 862
+Throughput: 2626 record time: 60 task: processor_2 throughput: 747
+Throughput: 3313 record time: 90 task: processor_3 throughput: 687
+Throughput: 4017 record time: 120 task: processor_1 throughput: 704
+Throughput: 4704 record time: 150 task: processor_4 throughput: 687
+Throughput: 5254 record time: 195 task: classifier_1 throughput: 550
+Throughput: 5837 record time: 240 task: classifier_2 throughput: 583
+Throughput: 6336 record time: 285 task: classifier_3 throughput: 499
+Total throughput: 6336
+----- END LOG -----
+----- START LOG -----
+Total Runtime: 0:04:41.260892
+[{'task': 'extract_transform_1', 'level': 1, 'record_time': 15, 'throughput': 940}, {'task': 'extract_transform_2', 'level': 1, 'record_time': 45, 'throughput': 1127}, {'task': 'processor_2', 'level': 2, 'record_time': 75, 'throughput': 728}, {'task': 'processor_3', 'level': 2, 'record_time': 90, 'throughput': 663}, {'task': 'processor_1', 'level': 2, 'record_time': 120, 'throughput': 699}, {'task': 'processor_4', 'level': 2, 'record_time': 150, 'throughput': 624}, {'task': 'classifier_1', 'level': 3, 'record_time': 195, 'throughput': 476}, {'task': 'classifier_2', 'level': 3, 'record_time': 240, 'throughput': 453}, {'task': 'classifier_3', 'level': 3, 'record_time': 285, 'throughput': 547}]
+Throughput: 940 record time: 15 task: extract_transform_1 throughput: 940
+Throughput: 2067 record time: 45 task: extract_transform_2 throughput: 1127
+Throughput: 2795 record time: 75 task: processor_2 throughput: 728
+Throughput: 3458 record time: 90 task: processor_3 throughput: 663
+Throughput: 4157 record time: 120 task: processor_1 throughput: 699
+Throughput: 4781 record time: 150 task: processor_4 throughput: 624
+Throughput: 5257 record time: 195 task: classifier_1 throughput: 476
+Throughput: 5710 record time: 240 task: classifier_2 throughput: 453
+Throughput: 6257 record time: 285 task: classifier_3 throughput: 547
+Total throughput: 6257
+----- END LOG -----
